@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.main{
+    width:100%;
+    height: 725px;
+}
+.header{
+    width:100%;
+    height: 100%;
+    flex-direction: row;
+    display:flex;
+}
+.left{
+    width:55%;
+    height:100%;
+}
+.right{
+    width: 45%;
+    height: 100%;
+}
+.icon{
+    width:75px;
+    height:75px;
+    padding-left: 35px;
+    padding-top: 35px;
+ 
+}
+h1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 700px;
+font-size: 70px;
+margin-top: 30px;
+margin-left: 33px;
+}
+h3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 17px;
+margin-top: 30px;
+margin-left: 33px;
+margin-bottom: 30px;
+}
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 33px;
+    }
+.btn1{
+    background-color:white;
+    margin-left: 33px;
+    font-family: "Google Sans",arial,sans-serif;
+    color: #3c4043;
+    cursor: pointer;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 5px 5px;
+    border: 1pt solid #bcc4ca;
+    border-width: 1pt;
+    margin-top: -1px;
+}
+.btn1:hover{
+    background-color: rgba(223, 237, 238, 0.89)
+}
+
+.para1{
+    margin-top: 10px;
+    margin-left: 33px;
+    margin-bottom: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11px;
+   
+}
+#para{
+    margin-left: 160px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#btn3{
+    background-color:#1aa3ff;
+    color:white;
+    font-weight: 700;
+    font-size:16px ;
+    border: 1px solid#1aa3ff;
+    font-family: "Google Sans",arial,sans-serif;
+    
+}
+#btn3:hover{
+    background-color: #72b9e9;
+}
+#btn4{
+    background-color: white;
+    color: #1aa3ff;
+    font-weight: 700;
+    font-size:16px ;
+    margin-top: -12px;
+    font-family: "Google Sans",arial,sans-serif;
+}
+#btn4:hover{
+    background-color:#b1d3e9;
+}
+.footer{
+    padding-bottom:50px ;
+    margin-left: 33px;
+    color: #3c4043;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+.table{
+    margin-left:33px;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+a{
+    margin-left: 10px;
+    color: #3c4043;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#para2{
+ padding-left: 500px;
+}
+#sh3{
+    font-size: 31px;
+}
+.blink{
+    color:#1aa3ff ;
+}
